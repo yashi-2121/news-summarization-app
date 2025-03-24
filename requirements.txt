@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+lxml[html_clean]
+newspaper3k
+transformers
+torch
+gradio
+transformers
+nltk
+gtts
+fastapi
+uvicorn
+matplotlib 
